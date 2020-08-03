@@ -1,9 +1,9 @@
 # Site settings
-title: Your site
+title: CHSR.ME
 description: >
-    Your description
-author: Your name
-email: your@e.mail
+    Chasser me.
+author: Chae Seomi
+email: dotz.chaser@gmail.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://chsrme.github.io" # the base hostname & protocol for your site
 instagram_username: chasser.me
