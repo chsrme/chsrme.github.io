@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-Talk about yourself.
+Chae Seomi, Technical director.
+WebGL, Three.js, Node.js, React.
 
-
+Contact.
+Instagram: @chasser.me
+E-Mail: dotz.chaser@gmail.com
