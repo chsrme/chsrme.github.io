@@ -9,7 +9,7 @@ url: "https://chsrme.github.io" # the base hostname & protocol for your site
 instagram_username: chasser.me
 github_username: chsrme
 
-disqus_shortname: YourDisqusShortname
+disqus_shortname: chsrme
 
 # Build settings
 include: [_pages]
